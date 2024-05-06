@@ -1,7 +1,7 @@
  body{padding: 0;
   margin: 0;
  font-family: 'Poppins', sans-serif;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 html, body, div, span, applet, object, iframe,
@@ -312,173 +312,93 @@ text-align: center;
 .objectives_area h2{
 
 }
+/*start_important_hrms_section*/
+.hrms_important_section{
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*Start_shoes_area_section*/
-.shoes_area{
-background: #F4F4F4;
-    padding: 98px 0px;
-    display: block;
-    overflow: hidden;
 }
 .custom_container{
 
 }
-
-.shoes_heading{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding-bottom: 24px;
-    padding-left: 25px;
-    padding-right: 25px;
+.hrms_important_area{
+    padding: 80px 0px;
 }
-.shoes_heading_left{
-
-}
-.shoes_heading_left h1{
-color: #1F1F1F;
-font-family: Poppins;
-font-size: 36px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
-}
-.shoes_heading_right{
-
-}
-.shoes_heading_right h4{
-color: #FF9D00;
-font-family: Poppins;
-font-size: 20px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
-}
-.shoes_contant{
-display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-.shoes_single{
-text-align: center;
-    max-width: 360px;
-    margin: auto;
-    width: 100%;
-    padding: 50px 24px;
-    background: #fff;
-    border-radius: 20px;
-}
-
-.shoes_single h1{
-    color: #1F1F1F;
-    font-family: Poppins;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 600;
-    line-height: normal;
-    padding-top: 22px;
-}
-.shoes_single p{
-color: #4E4E4E;
+.hrms_important_heading_area{
+    max-width: 700px;
     text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+.hrms_important_heading_area h1{
+    font-size: 45px;
+    color: #173050;
+}
+.hrms_important_heading_area h2{
+font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 34px;
+    padding-bottom: 20px;
+}
+.hrms_important_contant{
+ display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+.hrms_important_contant_left{
+    max-width: 700px;
+    width: 100%;
+    margin: auto;
+}
+
+.hrms_important_contant_left img{
+
+}
+.hrms_important_contant_right{
+    max-width: 550px;
+    width: 100%;
+    padding-top: 60px;
+}
+.hrms_important_contant_right_area{
+
+}
+.hrms_important_contant_right_area h1{
+font-size: 30px;
+    color: #173050;
+    padding-bottom: 20px;
+}
+.hrms_important_contant_right_area p{
+font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 34px;
+    padding-bottom: 20px;
+}
+.hrms_important_button_area{
+
+}
+.hrms_important_button{
+border-radius: 10px;
+    background: var(--Linear, linear-gradient(180deg, #0e8f1b -0.01%, #13d71e 99.99%));
+    display: inline-block;
+    padding: 15px 40px;
+    margin-right: 10px;
+}
+.hrms_important_button a {
+    color: #FFF;
     font-family: Inter;
     font-size: 16px;
     font-style: normal;
-    font-weight: 400;
-    line-height: 26px;
-    padding: 16px 0px;
-}
-.shoes_single h4{
-color: #000;
-    font-family: Poppins;
-    font-size: 24px;
-    font-style: normal;
     font-weight: 500;
     line-height: normal;
-    padding-bottom: 32px;
 }
-
-
-/*tuch_area_section*/
-.tuch_area{
-    padding: 75px 0px;
-    text-align: center;
+.increased_profitability_section{
+background: #D9EFF0;
+padding: 70px 0px;
 }
 .custom_container{
 
 }
-
-.tuch_full{
-      background: #FFF2F1;
-    padding: 147px 0px;
-    border-radius: 20px;
-}
-.tuch_heading {
-
-}
-.tuch_heading h1{
-color: #1F1F1F;
-    font-family: Poppins;
-    font-size: 30px;
-    font-style: normal;
-    font-weight: 600;
-    line-height: normal;
-    padding-bottom: 10px;
-}
-.tuch_heading p{
-    color: #707070;
-    font-family: Poppins;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
-    padding-bottom: 16px;
-}
-.tuch_button{
-    display: inline-flex;
-}
-
-.tuch_button input[type=text]{
-    color: #CCC;
-    font-family: Poppins;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    background: #fff;
-    border: aliceblue;
-    padding-right: 180px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-}
-
-.tuch_button input[type=submit]{
-color: #ffffff;
-    font-family: Poppins;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
-    padding: 10px 24px;
-    background: #FF589B;
-    border: #dfdfdf;
-}
-/*End_tuch_area_section*/
 
 
 
